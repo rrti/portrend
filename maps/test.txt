@@ -1,0 +1,10 @@
+## vertices are ordered {BL, BR, TR, TL}
+vertex    0.0    0.0
+vertex    0.0   16.0
+vertex   20.0   16.0
+vertex   20.0    0.0
+
+sector	 0 10   0 1 2 3   -1 -1 -1 -1
+
+player   6.0 4.0  0.0  0
+
